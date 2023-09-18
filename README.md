@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @elvis1
 - 👀 I’m interested in ... Scripting and Linux
-- 🌱 I’m currently learning ...Scripting, Docker and Python
+- 🌱 I’m currently learning ...K8, Ansible, Aws, Terraform
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me :
 - jpaul @ jpaul .com a r
 
 <!---
